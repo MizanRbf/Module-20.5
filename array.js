@@ -1,1 +1,0 @@
-let sentence = "ami vat khai";
