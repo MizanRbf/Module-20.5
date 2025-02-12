@@ -1,9 +1,9 @@
 // let numbers = ['Tom', 'Tim', 'Tin', 'Tik'];
-let joinNumbers = "";
-for(let num of numbers){
-  joinNumbers += num;
-}
-console.log(joinNumbers);
+// let joinNumbers = "";
+// for(let num of numbers){
+//   joinNumbers += num;
+// }
+// console.log(joinNumbers);
 
 
 // another task
